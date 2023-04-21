@@ -8,6 +8,8 @@ All of the docker-compose files should be startable with
 
 `docker-compose up -d`
 
+Create a cribl-config folder in the CriblStream directory!
+
 ### Resources
 *Stuff for copy/paste*
 
